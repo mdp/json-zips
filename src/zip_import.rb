@@ -16,5 +16,5 @@ csv.each do |z|
 end
 groups.each_pair do |k,v|
   f = File.new(output_dir + k + ".json",  "w")
-  f << "squarepush.jsonzips(#{v.to_json});"
+  f << "ComSquarepushJsonzips.zips(#{v.to_json});"
 end

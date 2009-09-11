@@ -1,1 +1,1 @@
-squarepush.jsonzips({"11801":{"state":" NY","city":" Hicksville"},"11803":{"state":" NY","city":" Plainview"},"11804":{"state":" NY","city":" Old Bethpage"}});
+ComSquarepushJsonzips.zips({"11801":{"state":" NY","city":" Hicksville"},"11803":{"state":" NY","city":" Plainview"},"11804":{"state":" NY","city":" Old Bethpage"}});
