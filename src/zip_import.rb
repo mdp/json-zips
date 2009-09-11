@@ -2,7 +2,7 @@ require 'rubygems'
 require 'fastercsv'
 require 'json'
 
-file = "zips_better.csv"
+file = "zips_2006.csv"
 output_dir = '../zips/'
 
 csv = FasterCSV.read(file)
